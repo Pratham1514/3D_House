@@ -67,40 +67,40 @@ body {
 
 /* walls */
 .face.wall1 {
-    background-color: #EDDBC7;
-    box-shadow: 0 0 5px #EDDBC7;
+    background-color: #3D246C;
+    box-shadow: 0 0 5px #3D246C;
     height: 400px;
     width: 200px;
     transform: rotateX(90deg) translateX(100px) translateZ(200px) translateY(204px);
 }
 
 .face.wall2 {
-    background-color: #F8EAD8;
-    box-shadow: 0 0 5px #F8EAD8;
+    background-color: #5C4B99;
+    box-shadow: 0 0 5px #5C4B99;
     height: 400px;
     width: 200px;
     transform: rotateX(90deg) translateX(100px) translateZ(-100px) translateY(204px);
 }
 
 .face.wall3 {
-    background-color: #F8EAD8;
-    box-shadow: 0 0 5px #F8EAD8;
+    background-color: #5C4B99;
+    box-shadow: 0 0 5px #5C4B99;
     height: 400px;
     width: 300px;
     transform: rotateX(90deg) rotateY(90deg) translateX(-50px) translateZ(149px) translateY(204px);
 }
 
 .face.wall4 {
-    background-color: #EDDBC7;
-    box-shadow: 0 0 5px #EDDBC7;
+    background-color: #3D246C;
+    box-shadow: 0 0 5px #3D246C;
     height: 400px;
     width: 300px;
     transform: rotateX(90deg) rotateY(-90deg) rotateZ(0deg) translateX(50px) translateZ(50px) translateY(204px);
 }
 
 .face.wall5 {
-    background-color: #fff0dd;
-    box-shadow: 0 0 5px #fff0dd;
+    background-color: #5C4B99;
+    box-shadow: 0 0 5px #5C4B99;
     height: 200px;
     width: 300px;
     transform:rotateX(0deg) rotateZ(90deg) rotateY(0deg) translateZ(404px) translateX(50px) translateY(-50px);
